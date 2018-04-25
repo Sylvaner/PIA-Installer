@@ -20,3 +20,9 @@ wget https://raw.githubusercontent.com/Sylvaner/PIA-Installer/master/install-pia
 chmod +x install-pia.sh
 ./install-pia.sh
 ```
+
+# Configuration
+
+Une fois le logiciel lancé, allez et renseignez l'adresse du serveur.
+
+Exemple : http://MON_IP:3000
