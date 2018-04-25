@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Vérification que le script est lancé en root
 if [[ $EUID -ne 0 ]]; then
