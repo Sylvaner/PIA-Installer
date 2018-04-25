@@ -25,4 +25,4 @@ chmod +x install-pia.sh
 
 Une fois le logiciel lancé, allez et renseignez l'adresse du serveur.
 
-Exemple : http://MON_IP:3000
+Exemple : __http://MON_IP:3000__
