@@ -1,5 +1,5 @@
 # PIA-Installer
-Script d'installation pour la solution PIA
+Script d'installation pour la solution PIA (serveur back-end)
 
 Outil fournit par la CNIL pour faciliter la mise en place de la RGPD : https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil
 
