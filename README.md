@@ -7,9 +7,13 @@ _"Le logiciel open source PIA facilite la conduite et la formalisation d’analy
 
 Dépôt GitHub du projet : https://github.com/LINCnil/pia-back
 
-Testé sur Debian 9 Stretch
+# Prérequis
+
+Le script est fonctionnel sur une distribution Debian 9 Stretch nouvellement installé.
 
 # Installation
+
+Le script doit être lancé en root.
 
 ```
 wget https://raw.githubusercontent.com/Sylvaner/PIA-Installer/master/install-pia.sh --no-check-certificate
