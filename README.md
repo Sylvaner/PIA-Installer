@@ -12,7 +12,7 @@ Testé sur Debian 9 Stretch
 # Installation
 
 ```
-wget https://raw.githubusercontent.com/Sylvaner/PIA-Installer/master/install-pia.sh
+wget https://raw.githubusercontent.com/Sylvaner/PIA-Installer/master/install-pia.sh --no-check-certificate
 chmod +x install-pia.sh
 ./install-pia.sh
 ```
